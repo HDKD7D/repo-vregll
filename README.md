@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: smithg@cedarville.edu, rosesabloom2003@yahoo.com
-At: 2026-09-16 16:15:51
-Id: 6IKyZSpU
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: lkeargle@yahoo.com, vance_poe@yahoo.com
+At: 2026-09-16 16:16:30
+Id: 5vfpBiBY
